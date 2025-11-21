@@ -1,51 +1,52 @@
+# AI 公司和技术
 DeepSeek
-
 特斯拉
+Tesla
 马斯克
-
+Musk
 微软
 Microsoft
-
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
-
 谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
+Google
+Gemini
+DeepMind
+ChatGPT
+OpenAI
+Sora
+Claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
+AI Agent
+LLM
+VLM
+GAI
 人工智能
 
-自动驾驶
+# 苹果产品
+iPhone
+iPad
+Mac
+iOS
 
-机器人
-
+# 芯片和硬件
 芯片
 光刻机
-
-科技
-
-LLM
-VLM 
-AI agent
-
 瑞芯微
 RKNN
 RockChip
+机器人
+自动驾驶
+
+# 其他科技相关
+科技
+半导体
+GPU
+CPU
+AI芯片
+自动驾驶
+大模型
+多模态
+生成式AI
